@@ -18,32 +18,6 @@ export class News extends Component {
         },
         {
         "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-        },
-        "author": "Times of India",
-        "title": "West Bengal CM Mamata Banerjee injured in emergency chopper landing amid bad weather - Times of India",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS92aWRlb3MvdG9pLW9yaWdpbmFsL3dlc3QtYmVuZ2FsLWNtLW1hbWF0YS1iYW5lcmplZS1pbmp1cmVkLWluLWVtZXJnZW5jeS1jaG9wcGVyLWxhbmRpbmctYW1pZC1iYWQtd2VhdGhlci92aWRlb3Nob3cvMTAxMzE2MDk3LmNtc9IBnwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS92aWRlb3MvdG9pLW9yaWdpbmFsL3dlc3QtYmVuZ2FsLWNtLW1hbWF0YS1iYW5lcmplZS1pbmp1cmVkLWluLWVtZXJnZW5jeS1jaG9wcGVyLWxhbmRpbmctYW1pZC1iYWQtd2VhdGhlci9hbXBfdmlkZW9zaG93LzEwMTMxNjA5Ny5jbXM?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2023-06-27T15:16:34+00:00",
-        "content": null
-        },
-        {
-        "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-        },
-        "author": "The Tribune India",
-        "title": "‘Unacceptable’: White House on online harassment of WSJ journalist who questioned PM Modi on minorities’ rights - The Tribune India",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy50cmlidW5laW5kaWEuY29tL25ld3Mvd29ybGQvdW5hY2NlcHRhYmxlLXdoaXRlLWhvdXNlLW9uLW9ubGluZS1oYXJhc3NtZW50LW9mLXdzai1qb3VybmFsaXN0LXdoby1xdWVzdGlvbmVkLXBtLW1vZGktb24tbWlub3JpdGllcy1yaWdodHMtNTIwNzI10gGYAWh0dHBzOi8vbS50cmlidW5laW5kaWEuY29tL25ld3Mvd29ybGQvdW5hY2NlcHRhYmxlLXdoaXRlLWhvdXNlLW9uLW9ubGluZS1oYXJhc3NtZW50LW9mLXdzai1qb3VybmFsaXN0LXdoby1xdWVzdGlvbmVkLXBtLW1vZGktb24tbWlub3JpdGllcy1yaWdodHMtNTIwNzI1?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2023-06-27T13:19:00+00:00",
-        "content": null
-        },
-        {
-        "source": {
         "id": "nbc-news",
         "name": "NBC News"
         },
@@ -54,32 +28,6 @@ export class News extends Component {
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230626-modi-us-visit-lr-00c753.jpg",
         "publishedAt": "2023-06-27T13:01:15Z",
         "content": "WASHINGTON Prime Minister Narendra Modis official state visit turned the nations capital into a microcosm of Indian politics on Thursday. Thousands of South Asians of every creed and community floode… [+13769 chars]"
-        },
-        {
-        "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-        },
-        "author": "Live Law - Indian Legal News",
-        "title": "‘Basic Structure’ of Valmiki Ramayana Distorted, Language in Dialogues Only Used by ‘Gully Boys’: PIL... - Live Law - Indian Legal News",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5saXZlbGF3LmluL3RvcC1zdG9yaWVzL3N1cHJlbWUtY291cnQtYWRpcHVydXNoLWJhc2ljLXN0cnVjdHVyZS12YWxtaWtpLXJhbWF5YW5hLWxhbmd1YWdlLWRpYWxvZ3Vlcy1ndWxseS1ib3lzLXB1YmxpYy1pbnRlcmVzdC1saXRpZ2F0aW9uLXBpbC0yMzE0MTPSAaMBaHR0cHM6Ly93d3cubGl2ZWxhdy5pbi9hbXAvdG9wLXN0b3JpZXMvc3VwcmVtZS1jb3VydC1hZGlwdXJ1c2gtYmFzaWMtc3RydWN0dXJlLXZhbG1pa2ktcmFtYXlhbmEtbGFuZ3VhZ2UtZGlhbG9ndWVzLWd1bGx5LWJveXMtcHVibGljLWludGVyZXN0LWxpdGlnYXRpb24tcGlsLTIzMTQxMw?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2023-06-27T12:39:09+00:00",
-        "content": null
-        },
-        {
-        "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-        },
-        "author": "Indiatimes.com",
-        "title": "PM Narendra Modi bats for uniform civil code - Indiatimes.com",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2luZGlhL3BtLW1vZGktYmF0cy1mb3ItdW5pZm9ybS1jaXZpbC1jb2RlLXNheXMtaXRzLXRoZS1uZWVkLW9mLXRoZS1ob3VyL2FydGljbGVzaG93LzEwMTMwMzIzMi5jbXPSAYABaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vaW5kaWEvcG0tbW9kaS1iYXRzLWZvci11bmlmb3JtLWNpdmlsLWNvZGUtc2F5cy1pdHMtdGhlLW5lZWQtb2YtdGhlLWhvdXIvYW1wX2FydGljbGVzaG93LzEwMTMwMzIzMi5jbXM?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2023-06-27T07:58:00+00:00",
-        "content": null
         },
         {
         "source": {
@@ -254,7 +202,7 @@ export class News extends Component {
 
     constructor() {
         super();
-        console.log("This is a constructor from News component");
+        // console.log("This is a constructor from News component");
         this.state = {
             articles : this.articles,
             loading : false
@@ -266,15 +214,13 @@ export class News extends Component {
             <div className='container my-3'>
                 <h2>M News - Top Headlines</h2>
                 <div className='row'>
-                    <div className="col-md-4">
-                        <NewsItem title="myTitle" description="mydesc" imageUrl="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/yash_0-sixteen_nine_0.jpg?VersionId=F2ptLRoVFmT6a4CSfPSn0.ZMKDkYYX6K&size=690:388" newsUrl="TODO"/>
-                    </div>
-                    <div className="col-md-4">
-                        <NewsItem title="myTitle" description="mydesc"/>
-                    </div>
-                    <div className="col-md-4">
-                        <NewsItem title="myTitle" description="mydesc"/>
-                    </div>
+                    {this.state.articles.map((element)=>{
+                         return <div className="col-md-4" key={element.url}>
+                         <NewsItem title={element.title.slice(0,45)} description={element.description.slice(0,88)} imageUrl={element.urlToImage} newsUrl={element.url}/>
+                     </div>
+                    })}
+                   
+                   
                 </div>
             </div>
         )
